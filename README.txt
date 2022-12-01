@@ -1,6 +1,6 @@
 
 ____________________________________________
-CONWAY'S GAME OF Life ------------- D3      |
+CONWAY'S GAME OF Life -------------     |
 Edward Jenks and Kelvin Brinham             |
 ____________________________________________|
 
